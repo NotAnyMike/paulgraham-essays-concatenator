@@ -1,0 +1,30 @@
+{
+  "name": "paulgrahams_essays_concatenator",
+  "version": "0.0.1",
+  "description": "This is a node.js app that concatenates all the available essays in paulgraham.com/articles.html",
+  "main": "paulgraham.js",
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "jquery-node": "^0.1.0",
+    "wget-improved": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotAnyMike/paulgraham-essays-concatenator.git"
+  },
+  "keywords": [
+    "paul",
+    "graham",
+    "essays"
+  ],
+  "author": "Mike W",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NotAnyMike/paulgraham-essays-concatenator/issues"
+  },
+  "homepage": "https://github.com/NotAnyMike/paulgraham-essays-concatenator#readme"
+}
