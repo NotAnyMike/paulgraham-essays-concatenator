@@ -21,4 +21,4 @@ git clone https://github.com/NotAnyMike/paulgraham-essays-concatenator.git && cd
 
 ---
 ## Support
-It works perfectly on OSX El Capitan, let me know anything [@NotAnyMike](https://twitter.com/NotAnyMike)
+Contact me on twitter [@NotAnyMike](https://twitter.com/NotAnyMike)
