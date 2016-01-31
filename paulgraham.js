@@ -5,7 +5,7 @@ var wget = require('wget-improved'),
 	get = require('get');
 
 var src = 'http://www.paulgraham.com/';
-var output = '/Users/Mike/Desktop/paulgraham/essays/';
+var output = './essays/';
 var options = {
 };
 
