@@ -9,6 +9,7 @@ This is a node.js app that concatenates all the available essays in paulgraham.c
 # How to use
 1. Go to http://www.paulgraham.com/articles.html
 2. Open the javascript console and type:
+
         ```
         var list = "['articles.html',";
         var jq = document.createElement('script');
